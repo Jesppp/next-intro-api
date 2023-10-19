@@ -1,4 +1,4 @@
-## Alt av API, hjemmeside og dyrefakta siden ligger under /pages :)
+#### Alt av API, hjemmeside og dyrefakta siden ligger under /pages :)
 
 &nbsp;
 
