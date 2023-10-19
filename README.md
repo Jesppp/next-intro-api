@@ -1,7 +1,6 @@
-# Alt av API, hjemmeside og dyrefakta siden ligger under /pages :)
+## Alt av API, hjemmeside og dyrefakta siden ligger under /pages :)
 
-<br/><br/>
-<br/><br/>
+&nbsp;
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
